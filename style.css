@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+:root {
+    --cor-principal: #ffffff;
+    --cor-secundaria: #ff0000;
+    --cor-destaque: #ffffff;
+}
+
+body {
+    font-family: 'Chakra Petch', sans-serif;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    .card-body {
+        background-color: rgb(0, 0, 0);}
+     
+   
+}
+
+h1, h2, h5{
+    color:rgb(255, 255, 255);
+    font-weight: 700;
+
+}
+
+.spider {
+    color: red;
+}
+
+
+
+
+.FILMES {color: rgb(0, 0, 0);}
+
+ #um{
+    color: rgb(0, 0, 0);
+ }
+
+ #dois {
+    color: rgb(0, 0, 0);
+ }
+ #tres {
+    color: black;
+ }
+
+ .modal-title {color: black;}
+
+ .biografia{
+    color: black;
+ }
+
+ .premios {
+    color: black;
+ }
+ .premiação {
+    color: black;
+ }
+ 
+
+.lead, .btn-link {
+    color: white;
+    font-weight: 700;
+}
+
+a, .btn-link:hover {
+    color:whites
+}
+
+a:hover{
+    color: rgb(0, 0, 0);
+}
+.card-body{
+    color: #ffffff;
+}
+
+
